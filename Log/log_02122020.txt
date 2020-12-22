@@ -1,0 +1,112 @@
+12-02-2020 15:00:19| [5] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 15:00:19| [5] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 16:41:35| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 16:41:35| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 16:52:52| [5] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 16:52:52| [5] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 16:59:04| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 16:59:04| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 18:51:48| [5] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 18:51:48| [5] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 18:58:18| [5] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 18:58:18| [5] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 18:59:07| [5] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:11:00| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:11:01| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:12:38| [5] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:12:38| [5] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:13:35| [5] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:13:40| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:13:40| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:13:47| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:14:02| [6] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:14:11| [6] | ERROR | web_cl_famydoc.login | btn_ingresar_Click = ()=>Mensaje : Subproceso anulado. - Modulo : Login
+12-02-2020 20:15:53| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:15:53| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:16:00| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:16:05| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:16:05| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:16:05| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:16:18| [6] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:16:38| [6] | ERROR | web_cl_famydoc.login | btn_ingresar_Click = ()=>Mensaje : Subproceso anulado. - Modulo : Login
+12-02-2020 20:19:19| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:19:19| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:19:19| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:19:23| [7] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:19:23| [7] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:19:23| [7] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:19:29| [7] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:20:48| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:20:48| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:20:48| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:20:53| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:20:53| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:20:53| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:21:44| [6] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:22:53| [6] | ERROR | Famydoc.Utils.Utils | ValorWebConfig = ()=>Mensaje : Subproceso anulado. - Modulo : UTIL
+12-02-2020 20:23:02| [6] | ERROR | Famydoc.Utils.Utils | ValorWebConfig = ()=>Mensaje : Subproceso anulado. - Modulo : UTIL
+12-02-2020 20:24:30| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:24:30| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:24:30| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:24:33| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:24:33| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:24:33| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:25:05| [6] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:25:24| [7] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:25:24| [7] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:25:24| [7] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:25:24| [7] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:25:33| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:25:33| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:25:33| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:25:39| [6] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:25:40| [6] | ERROR | web_cl_famydoc.login | btn_ingresar_Click = ()=>Mensaje : Subproceso anulado. - Modulo : Login
+12-02-2020 20:26:15| [8] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:26:15| [8] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:26:16| [8] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:26:45| [8] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:32:07| [5] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:32:08| [5] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:32:11| [5] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:32:27| [7] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:32:27| [7] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:32:27| [7] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:32:35| [7] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:32:35| [7] | ERROR | web_cl_famydoc.login | btn_ingresar_Click = ()=>Mensaje : Subproceso anulado. - Modulo : Login
+12-02-2020 20:32:48| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:32:48| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:32:49| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:32:51| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:32:51| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:32:53| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:33:14| [6] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:33:28| [6] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:33:32| [11] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:33:32| [11] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:33:32| [11] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:33:33| [11] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:33:37| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:33:37| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:33:37| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:33:39| [6] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:33:43| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:33:43| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:33:43| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:33:45| [6] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:45:49| [5] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:45:49| [5] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:45:54| [5] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:51:52| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:51:52| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:51:54| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:52:20| [8] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:52:20| [8] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:52:20| [8] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:52:36| [6] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:52:36| [6] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 20:52:36| [6] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:59:16| [5] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:59:26| [5] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion
+12-02-2020 20:59:28| [5] | INFO | web_cl_famydoc.login | btn_ingresar_Click = ()=> Inicio de Session --> Usuario : Cuenta , nombre = nombre
+12-02-2020 20:59:28| [5] | ERROR | web_cl_famydoc.login | btn_ingresar_Click = ()=>Mensaje : Subproceso anulado. - Modulo : Login
+12-02-2020 21:01:41| [8] | INFO | PERSISTENCIA.PersonaDAC | ValidacionConexion = ()=> Primer conexion

@@ -1,0 +1,9 @@
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\Famydoc.Utils\bin\Debug\Famydoc.Utils.dll
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\Famydoc.Utils\bin\Debug\Famydoc.Utils.pdb
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\Famydoc.Utils\bin\Debug\log4net.dll
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\Famydoc.Utils\bin\Debug\log4net.xml
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\Famydoc.Utils\obj\Debug\Famydoc.Utils.csprojAssemblyReference.cache
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\Famydoc.Utils\obj\Debug\Famydoc.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\Famydoc.Utils\obj\Debug\Famydoc.Utils.csproj.CopyComplete
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\Famydoc.Utils\obj\Debug\Famydoc.Utils.dll
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\Famydoc.Utils\obj\Debug\Famydoc.Utils.pdb

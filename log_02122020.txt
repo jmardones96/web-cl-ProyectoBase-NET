@@ -1,0 +1,2 @@
+12-02-2020 14:58:09| [5] | INFO | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio
+12-02-2020 14:58:09| [5] | ERROR | web_cl_famydoc.login | Page_Load = ()=> Primer Inicio

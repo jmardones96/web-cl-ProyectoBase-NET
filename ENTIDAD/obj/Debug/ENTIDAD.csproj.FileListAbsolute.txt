@@ -1,0 +1,17 @@
+C:\Users\Equipo\source\repos\web-cl-famydoc\ENTIDAD\bin\Debug\ENTIDAD.dll
+C:\Users\Equipo\source\repos\web-cl-famydoc\ENTIDAD\bin\Debug\ENTIDAD.pdb
+C:\Users\Equipo\source\repos\web-cl-famydoc\ENTIDAD\obj\Debug\ENTIDAD.csprojAssemblyReference.cache
+C:\Users\Equipo\source\repos\web-cl-famydoc\ENTIDAD\obj\Debug\ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\source\repos\web-cl-famydoc\ENTIDAD\obj\Debug\ENTIDAD.dll
+C:\Users\Equipo\source\repos\web-cl-famydoc\ENTIDAD\obj\Debug\ENTIDAD.pdb
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\ENTIDAD\bin\Debug\ENTIDAD.dll
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\ENTIDAD\bin\Debug\ENTIDAD.pdb
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\ENTIDAD\bin\Debug\Famydoc.Utils.dll
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\ENTIDAD\bin\Debug\log4net.dll
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\ENTIDAD\bin\Debug\Famydoc.Utils.pdb
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\ENTIDAD\bin\Debug\log4net.xml
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\ENTIDAD\obj\Debug\ENTIDAD.csprojAssemblyReference.cache
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\ENTIDAD\obj\Debug\ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\ENTIDAD\obj\Debug\ENTIDAD.csproj.CopyComplete
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\ENTIDAD\obj\Debug\ENTIDAD.dll
+C:\Users\Equipo\Desktop\JOAQUIN\PROYECTOS\web-cl-FamyDoc-NET\ENTIDAD\obj\Debug\ENTIDAD.pdb
